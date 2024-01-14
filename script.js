@@ -27,7 +27,7 @@ upperbtn.addEventListener("click",function(){
  })
  lengthbtn.addEventListener("click",function(){
 
-     result.innerHTML = input.value.length;
+     result.innerHTML = " your text length is : " + input.value.length;
 
  })
 
